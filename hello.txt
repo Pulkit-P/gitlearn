@@ -5,7 +5,7 @@ hello
 next commit ---2
 hey
 commit! 3
-hey!!1
+!!1
   commit 4
 
 
